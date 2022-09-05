@@ -7,6 +7,8 @@
 Now, about this project. 
 
 I call it # Frosted-Glass-Container #
-Some fancy ways to add a blur effect to your description box. More like a tempered glass door/window to me, but the term "frosted" sounded more edgy. 
+Some fancy ways to add a blur effect to your description box. More like a tempered glass door/window to me, but the term "frosted" sounded more edgy.
+
+note : you can change the background image file (.jpg/.jpeg) with other image of your own. My image is a picture of repeated book cover I've found on the internet (yes, that's a freemason symbol if you asking). 
 
 Have A Nice Day!!
